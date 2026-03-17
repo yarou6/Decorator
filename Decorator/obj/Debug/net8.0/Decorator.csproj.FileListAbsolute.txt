@@ -1,0 +1,15 @@
+/home/student/RiderProjects/Decorator/Decorator/bin/Debug/net8.0/Decorator
+/home/student/RiderProjects/Decorator/Decorator/bin/Debug/net8.0/Decorator.deps.json
+/home/student/RiderProjects/Decorator/Decorator/bin/Debug/net8.0/Decorator.runtimeconfig.json
+/home/student/RiderProjects/Decorator/Decorator/bin/Debug/net8.0/Decorator.dll
+/home/student/RiderProjects/Decorator/Decorator/bin/Debug/net8.0/Decorator.pdb
+/home/student/RiderProjects/Decorator/Decorator/obj/Debug/net8.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/RiderProjects/Decorator/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfoInputs.cache
+/home/student/RiderProjects/Decorator/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfo.cs
+/home/student/RiderProjects/Decorator/Decorator/obj/Debug/net8.0/Decorator.csproj.CoreCompileInputs.cache
+/home/student/RiderProjects/Decorator/Decorator/obj/Debug/net8.0/Decorator.sourcelink.json
+/home/student/RiderProjects/Decorator/Decorator/obj/Debug/net8.0/Decorator.dll
+/home/student/RiderProjects/Decorator/Decorator/obj/Debug/net8.0/refint/Decorator.dll
+/home/student/RiderProjects/Decorator/Decorator/obj/Debug/net8.0/Decorator.pdb
+/home/student/RiderProjects/Decorator/Decorator/obj/Debug/net8.0/Decorator.genruntimeconfig.cache
+/home/student/RiderProjects/Decorator/Decorator/obj/Debug/net8.0/ref/Decorator.dll
